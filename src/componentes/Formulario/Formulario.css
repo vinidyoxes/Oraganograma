@@ -1,0 +1,32 @@
+.secaoFormulario{
+    display: flex;
+    justify-content: flex-start;
+    padding: 5% 0%;
+    align-items: center;
+
+}
+
+.secaoFormulario--formulario{
+    width: 80%;
+    padding: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background: #F7F7F7;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    box-sizing: border-box;
+
+
+}
+
+.secaoFormulario--formulario legend{
+    font-family: 'Prata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+display: flex;
+align-items: center;
+}

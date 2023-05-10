@@ -1,0 +1,9 @@
+.divBanner{
+    background-color: blueviolet;
+}
+
+.divBanner img{
+    max-width: 100%;
+    text-align: center;
+
+}

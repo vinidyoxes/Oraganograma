@@ -1,0 +1,24 @@
+.times {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    padding: 2%;
+}
+
+.times h3{
+    border-bottom: 3px solid;
+    display: flex;
+    justify-content: center;
+    width: auto;
+}
+
+.cards--times{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    gap: 1em;
+}

@@ -1,0 +1,30 @@
+.rodape{
+    background-image: url('../../../public/img/footer.jpg');
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2em;
+    box-sizing: border-box;
+}
+
+.col--redes{
+    display: flex;
+    gap: 0.8em;
+}
+
+.col--redes img{
+    width: 20px;
+}
+
+.col--copyright {
+    color: white;
+}
+
+.col--copyright strong {
+    color: rgb(110, 3, 25);
+}
+
+.col--copyright a {
+    text-decoration: none;
+}
