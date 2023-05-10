@@ -8,6 +8,14 @@
 
 }
 
+.fechar--icon{
+    align-self: flex-end;
+    margin-right: -10px;
+    color: blue;
+    position: absolute;
+    margin-top: -10px;
+}
+
 .cabecalho--card{
     background-color: aquamarine;
     width: 100%;

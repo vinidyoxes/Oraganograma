@@ -5,6 +5,7 @@
     align-items: center;
     width: auto;
     padding: 2%;
+    opacity: 50%;
 }
 
 .times h3{
@@ -21,4 +22,13 @@
     justify-content: center;
     width: 100%;
     gap: 1em;
+    z-index: 99;
+}
+
+.input--cor{
+    justify-content: start;
+    align-self: flex-end;
+    margin-right: -10px;
+    color: blue;
+    margin-top: -10px;
 }

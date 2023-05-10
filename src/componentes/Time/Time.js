@@ -5,6 +5,7 @@ const Time = (props)=> {
     return(
 
             props.colaboradores.length > 0 && <section className='times' style={{backgroundColor: props.corSecundaria}}>
+            <input value={props.corPrimaria} type='color' className='input--cor'/>
             <h3 style={{borderColor:props.corPrimaria}}>
                 {props.nome}
             </h3>
